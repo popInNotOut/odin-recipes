@@ -1,2 +1,2 @@
-The current project is a website which allows me to put my newfound HTML knowledge into practice.
+The current project is a website for practicing HTML.
 In the future, I hope to incorporate CSS and Javascipt.
